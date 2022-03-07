@@ -9,10 +9,10 @@
   * [Métodos](#m-todos)
   * [Avaliação](#avalia--o)
   * [Plano de Aulas](#plano-de-aulas)
-  * [Atividades e Material de Apoio](#atividades-e-material-de-apoio)
+  * [Material de Apoio](#material-de-apoio)
   * [Bibliografia](#bibliografia)
 
-(<small><i>Table of contents generated with <a href='http://ecotrust-canada.github.io/markdown-toc/'>markdown-toc</a></i></small>.)
+(<small><i>Table of contents generated with <a href='http://ecotrust-canada.github.io/markdown-toc/'>markdown-toc</a></i></small>)
 
 ## Ementa
 
