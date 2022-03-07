@@ -3,18 +3,13 @@
 >### _A good programming language is a conceptual universe for thinking about programming._
 >— Alan Perlis
 
-## Atividades e Material 
-
-- Exercícios, quizzes, tarefas, textos em formato .PDF e vídeos: Google Classroom da UFBA, disciplina MATA56 2022.1 T01.
-- Código, textos em formato markdown e trabalhos práticos: Repositórios públicos ou privados na Organização mata56-ic-ufba no GitHub.
-
 + [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2022-1-2_ufba_-_aprovado_07.10.21_-_atualizado_04.03.22.pdf)
 + [Ementa](#ementa)
 + [Programa](#programa)
 + [Métodos](#m-todos)
-+ [Atividades](#atividades)
 + [Avaliação](#avalia--o)
-+ [Plano de Aulas (pode sofrer ajustes)](#plano-de-aulas--pode-sofrer-ajustes-)
++ [Plano de Aulas](#plano-de-aulas)
++ [Atividades e Material de Apoio](#atividades-e-material-de-apoio)
 + [Bibliografia](#bibliografia)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -34,13 +29,14 @@ Conceitos de programação funcional, baseada em lógica e concorrente. Compara�
 O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da UFBA.
 
 ## Métodos
-- Aulas síncronas, invertidas, com (pré-)leitura.
-- Aulas assíncronas
-- Discussões
-- Trabalhos práticos de implementação (programação funcional, programação lógica, programação concorrente).
-- Exercícios, quizzes e pequenas tarefas.
+
+- Aulas síncronas, invertidas, com (pré-)leitura e discussões
+- Aulas assíncronas, com vídeos e atividades práticas 
+- Quizzes e exercícios práticos de implementação (programação funcional, programação lógica, programação concorrente).
+- Quizzes, exercícios e pequenas tarefas para explorar conceitos de linguagens de programação.
 
 ### Plataformas de Apoio
+
    - Google Classroom
    - GitHub
    - Discord
@@ -86,6 +82,11 @@ Data | Semana | Tópico
 24/11/2021 | 16 | Programação Funcional (síncrono, discussão)
 29/11 e 01/12/2021 | 17 | Noções sobre Programação em Lógica
 06/12/2021 | 18 | Caracterização de Linguagens (III) e encerramento.
+
+## Atividades e Material de Apoio
+
+- Exercícios, quizzes, tarefas, textos em formato .PDF e vídeos: Google Classroom da UFBA, disciplina MATA56 2022.1 T01.
+- Código, textos em formato markdown e trabalhos práticos: Repositórios públicos ou privados na Organização mata56-ic-ufba no GitHub.
 
 ## Bibliografia
 
