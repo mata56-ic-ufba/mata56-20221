@@ -3,16 +3,16 @@
 >### _A good programming language is a conceptual universe for thinking about programming._
 >— Alan Perlis
 
-+ [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2022-1-2_ufba_-_aprovado_07.10.21_-_atualizado_04.03.22.pdf)
-+ [Ementa](#ementa)
-+ [Programa](#programa)
-+ [Métodos](#m-todos)
-+ [Avaliação](#avalia--o)
-+ [Plano de Aulas](#plano-de-aulas)
-+ [Atividades e Material de Apoio](#atividades-e-material-de-apoio)
-+ [Bibliografia](#bibliografia)
+  * [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2022-1-2_ufba_-_aprovado_07.10.21_-_atualizado_04.03.22.pdf)
+  * [Ementa](#ementa)
+  * [Programa](#programa)
+  * [Métodos](#m-todos)
+  * [Avaliação](#avalia--o)
+  * [Plano de Aulas](#plano-de-aulas)
+  * [Atividades e Material de Apoio](#atividades-e-material-de-apoio)
+  * [Bibliografia](#bibliografia)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+(<small><i>Table of contents generated with <a href='http://ecotrust-canada.github.io/markdown-toc/'>markdown-toc</a></i></small>.)
 
 ## Ementa
 
