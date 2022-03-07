@@ -83,10 +83,10 @@ Data | Semana | Tópico
 29/11 e 01/12/2021 | 17 | Noções sobre Programação em Lógica
 06/12/2021 | 18 | Caracterização de Linguagens (III) e encerramento.
 
-## Atividades e Material de Apoio
+## Material de Apoio
 
 - Exercícios, quizzes, tarefas, textos em formato .PDF e vídeos: Google Classroom da UFBA, disciplina MATA56 2022.1 T01.
-- Código, textos em formato markdown e trabalhos práticos: Repositórios públicos ou privados na Organização mata56-ic-ufba no GitHub.
+- Código, textos em formato markdown e exercícios práticos: Repositórios na Organização mata56-ic-ufba no GitHub.
 
 ## Bibliografia
 
