@@ -57,7 +57,7 @@ O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da 
    - Exercícios práticos 
 + Tarefas (5%)
 
-## Plano de Aulas (pode sofrer ajustes)
+## Plano de Aulas
 
 Data | Semana | Tópico
 -- | -- | --
