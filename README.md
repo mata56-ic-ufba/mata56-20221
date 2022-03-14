@@ -16,7 +16,7 @@
 
 ## Ementa
 
-Conceitos de programação funcional, baseada em lógica e concorrente. Comparação entre os paradigmas imperativo, funcional, lógico, orientado a objetos. Critérios de avaliação de linguagens de programação. Evolução histórica de linguagens. Modelos de implementação de linguagens.
+Conceitos de programação funcional, baseada em lógica e concorrente. Comparação entre os paradigmas imperativo, funcional, lógico, orientado a objetos e concorrente. Critérios de avaliação de linguagens de programação. Evolução histórica de linguagens. Modelos de implementação de linguagens.
 
 ## Programa
 
@@ -24,7 +24,6 @@ Conceitos de programação funcional, baseada em lógica e concorrente. Compara�
 2. Conceitos de Linguagens de Programação
 3. Programação Funcional
 4. Programação em Lógica
-5. Programação Concorrente
 
 O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da UFBA.
 
@@ -43,18 +42,15 @@ O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da 
 
 ## Avaliação
 
-+ Conceitos de linguagem de programação (35%)
++ Conceitos de linguagem de programação (40%)
    - Quizzes 
    - Exercícios
-+ Programação funcional (35%)
++ Programação funcional (40%)
    - Quizzes 
    - Exercícios práticos
 + Programação em lógica (15%)
    - Quizzes 
    - Exercícios práticos
-+ Programação concorrente (10%)
-   - Quizzes  
-   - Exercícios práticos 
 + Tarefas (5%)
 
 ## Plano de Aulas
