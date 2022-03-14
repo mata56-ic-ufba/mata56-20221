@@ -18,21 +18,54 @@
 
 Conceitos de programação funcional, baseada em lógica e concorrente. Comparação entre os paradigmas imperativo, funcional, lógico, orientado a objetos e concorrente. Critérios de avaliação de linguagens de programação. Evolução histórica de linguagens. Modelos de implementação de linguagens.
 
+Estudos do paradigma funcional: conceito de programação funcional; resolução e implementação de problemas numa linguagem funcional; modelo de implementação. Estudo do paradigma lógico: conceito de programação lógica; resolução e implementação de problemas numa linguagem lógica; modelo de implementação. Uma análise comparativa geral entre os paradigmas imperativo, orientado a objetos, funcional, lógico, concorrente.
+
 ## Programa
 
-1. Histórico, paradigmas, modelos de implementação e critérios de avaliação de linguagens de programação
-2. Conceitos de Linguagens de Programação
-3. Programação Funcional
-4. Programação em Lógica
+1. Visão Geral 
+- Principais linguagens de programação
+- Principais paradigmas de programação e suas características
+- Evolução histórica de linguagens e paradigmas de programação
+- Critérios de avaliação de linguagens de programação
+- Comparação entre os paradigmas imperativo, funcional, lógico, orientado a objetos e concorrente
 
-O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da UFBA.
+2. Conceitos relevantes em Linguagens de Programação
+- Tipos, abstração de dados e abstração de controle
+- Registros, procedimentos, fechamento, atribuição única, célula de armazenamento, unificação lógica, busca e solução, execução preguiçosa, e threads
+- Modelos de implementação
+
+3. Programação Funcional
+- Conceitos de programação funcional
+- Resolução e implementação de problemas em linguagem funcional
+- Modelo de implementação
+
+4. Programação em Lógica
+- Conceitos de programação lógica
+- Resolução e implementação de problemas em linguagem lógica
+- Modelo de implementação
+
+5. Implementação e organização de linguagens de programação.
+- Conceitos de compilação e interpretação
+- Analisadores léxicos e parsers
+- Identificadores e tabelas de símbolos
+- Vinculação de nomes
+- Tipos de dados
+- Tempo de vida e escopos
+- Sub-rotinas e passagens de parâmetros
+- Ambientes de referenciamento
+- Variáveis de pilha e de heaps
+- Estruturas dinâmicas
+- Geração de código.
+
+
+Obs.: O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no [Google Classroom - UFBA](https://drive.google.com/file/d/1S7FqepovZ06Wd8q5tRovsKD9YY8i8_uj/view?usp=sharing).
 
 ## Métodos
 
-- Aulas síncronas, invertidas, com (pré-)leitura e discussões
-- Aulas assíncronas, com vídeos e atividades práticas 
-- Quizzes e exercícios práticos de implementação (programação funcional, programação lógica, programação concorrente).
-- Quizzes, exercícios e pequenas tarefas para explorar conceitos de linguagens de programação.
+- Aulas síncronas, invertidas, com (pré-)leitura e discussões;
+- Aulas assíncronas, com vídeos e atividades práticas; 
+- Quizzes e exercícios práticos de implementação (programação funcional, programação lógica);
+- Quizzes, exercícios e pequenas tarefas para explorar conceitos de linguagens de programação e comparação entre elas.
 
 ### Plataformas de Apoio
 
@@ -42,7 +75,7 @@ O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da 
 
 ## Avaliação
 
-+ Conceitos de linguagem de programação (40%)
++ Conceitos de linguagem de programação e comparação entre linguagens (40%)
    - Quizzes 
    - Exercícios
 + Programação funcional (40%)
@@ -57,32 +90,38 @@ O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da 
 
 Data | Semana | Tópico
 -- | -- | --
-07 e 09/03/2022 | 1 | Boas-vindas e apresentação da disciplina
-14 e 16/03/2022 | 2 | Histórico, Paradigmas, modelos de implementação, critérios de avaliação
-21 e 23/03/2022 | 3 | Caracterização de Linguagens (I)
-28 e 30/03/2022 | 4 | Conceitos de linguagens de programação; Aspectos de Sintaxe
-04 e 06/04/2022 | 5 | Conceitos de linguagens de programação; Aspectos Semânticos
-11 e 13/04/2022 | 6 | Caracterização de Linguagens (II)
-18 e 20/04/2022 | 7 | Conceitos de linguagens de programação; Aspectos de Tradução
+07 e 09/03/2022 | 1 | Acolhimento da UFBA
+14 e 16/03/2022 | 2 | Apresentação da disciplina
+21 e 23/03/2022 | 3 | 
+28 e 30/03/2022 | 4 | 
+04 e 06/04/2022 | 5 | 
+11 e 13/04/2022 | 6 | 
+18 e 20/04/2022 | 7 | 
 25 e 27/04/2022 | 8 | 
-02 e 04/05/2022 | 9 | [Programação Concorrente](https://goo.gl/photos/mJHQRhQCENhJG8VcA)
+02 e 04/05/2022 | 9 | 
 09 e 11/05/2022 | 10 | 
-16 e 18/05/2022 | 11 | Introdução à Programação Funcional
-23 e 25/05/2022 | 11 | Sem aula
-30/05 e 01/06/2022 | 12 | Sem aula
-06 e 08/06/2022 | 13 | Programação Funcional com Elixir (exercícios, assíncrono)
-13 e 15/06/2022 | 14 | Programação Funcional com ELixir (exercícios, assíncrono)
-20 e 22/06/2022 | 15 | Feriado
-27 e 29/06/2022 | 15 | Programação Funcional
-04 e 06/07/2029 | 16 | _Palestra sobre Elixir com Prof. Adolfo Neto_
-24/11/2021 | 16 | Programação Funcional (síncrono, discussão)
-29/11 e 01/12/2021 | 17 | Noções sobre Programação em Lógica
-06/12/2021 | 18 | Caracterização de Linguagens (III) e encerramento.
+16 e 18/05/2022 | 11 | 
+23 e 25/05/2022 | 11 | 
+30/05 e 01/06/2022 | 12 |
+06 e 08/06/2022 | 13 | 
+13 e 15/06/2022 | 14 |
+20 e 22/06/2022 | 15 | 
+27 e 29/06/2022 | 15 | 
+04 e 06/07/2029 | 16 | 
+24/11/2021 | 16 |
+29/11 e 01/12/2021 | 17 |
+06/12/2021 | 18 | 
 
 ## Material de Apoio
 
 - Exercícios, quizzes, tarefas, textos em formato .PDF e vídeos: Google Classroom da UFBA, disciplina MATA56 2022.1 T01.
 - Código, textos em formato markdown e exercícios práticos: Repositórios na Organização mata56-ic-ufba no GitHub.
+
++ PROLOG
+http://www.gprolog.org/ ou http://www.swi-prolog.org/ 
+
++ Programação Funcional
+http://racket-lang.org/ ou https://elixir-lang.org/ ou https://lisp-lang.org/ 
 
 ## Bibliografia
 
