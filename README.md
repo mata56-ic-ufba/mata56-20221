@@ -91,10 +91,10 @@ Obs.: O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no [Google Classr
 Data | Semana | Tópico
 -- | -- | --
 07 e 09/03/2022 | 1 | Acolhimento da UFBA
-14 e 16/03/2022 | 2 | Apresentação da disciplina
-21 e 23/03/2022 | 3 | 
-28 e 30/03/2022 | 4 | 
-04 e 06/04/2022 | 5 | 
+14 e 16/03/2022 | 2 | 
+21 e 23/03/2022 | 3 | Apresentação da disciplina
+28 e 30/03/2022 | 4 | Motivação, conceitos gerais, critérios de avaliação, histórico(1)
+04 e 06/04/2022 | 5 | Histórico(2), paradigmas de programação, conceitos relevantes
 11 e 13/04/2022 | 6 | 
 18 e 20/04/2022 | 7 | 
 25 e 27/04/2022 | 8 | 
