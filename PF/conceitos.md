@@ -1,35 +1,29 @@
-# Programação Funcional
+# O Paradigma Funcional
 
+<!--
 ## Visão geral
-
 ### Computação com "State" (Imperative)
 + state, (modifiable) variable, assignment, l-value, r-value, iteration
 + computational model: transformation of state
 + von Neumann's machine
+-->
 
-## O Paradigma Funcional
-
-### Conceitos
-
-#### Computação sem "State" (Functional)
+## 11.1 Computação sem "Estado"
 + rewriting expressions
 + higher-order functions, recursion
 + computational model: "stateless", transformation of environment
 
-#### Lambda-calculus
-
-An abstract model for characterising computable functions based on higher-order functions and recursion.
-
-#### Linguagens Funcionais
+### Linguagens Funcionais
 
 + Puras: LISP, Miranda, Haskell
 + Scheme, ML
 
 ### Expressões
 
-## Avaliação
+## 11.2 Avaliação
 
-## Programação Funcional
+## 11.3 Programação Funcional
+
 + local environment
 + interactiveness
 + types
@@ -37,11 +31,15 @@ An abstract model for characterising computable functions based on higher-order 
 + infinite objects
 + aspectos imperativos
 
-## Abstract Machines
+## 11.4 Máquinas Abstratas
 
-## Avaliação
+## 11.5 Avaliação
 
-## Lambda-calculus
+## 11.6 Lambda-calculus
+
+
+An abstract model for characterising computable functions based on higher-order functions and recursion.
+
 
 ## Resumo
 
