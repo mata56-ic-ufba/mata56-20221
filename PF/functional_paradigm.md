@@ -1,4 +1,4 @@
-# O Paradigma Funcional
+# The Functional Paradigm
 
 <!-- 
 In this chapter, we present the main properties of functional programming. 
@@ -16,7 +16,7 @@ is interesting with respect to ordinary imperative languages.
 The chapter concludes with a more theoretical section which provides a succinct introduction to the λ-calculus, 
 a formal system for computability which inspires all functional languages and which has, 
 since the time of ALGOL and LISP, been a constant model for the design of programming languages. 
-–>
+-->
 
 ## 11.1 Computations without State 
 
